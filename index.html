@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Validade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Validade</h1>
+        
+        <label for="data">Data Inicial (dd/mm/yyyy):</label>
+        <input type="text" id="data" placeholder="Digite a data inicial">
+        
+        <label for="dias">Dias para adicionar:</label>
+        <input type="number" id="dias" placeholder="Digite o número de dias">
+        
+        <button id="calcular">Calcular Validade</button>
+        
+        <div id="resultado">
+            <p><strong>Data de validade:</strong> <span id="validade"></span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
