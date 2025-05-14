@@ -29,7 +29,7 @@
 
 # Links 🔗
 
-<div> https://github.com/harrisonleandro](https://harrisonleandro.github.io/calculadora-validade/
+<div> https://harrisonleandro.github.io/calculadora-validade/
 </div>
 
 <hr>
